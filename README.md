@@ -1,0 +1,2 @@
+# Sky Rangers
+This is a very simple game where the player has to shoot down UFOs and rocks in space. This game was created by me as a project for the course on creative programming for Digital Media & Mobile Apps.
